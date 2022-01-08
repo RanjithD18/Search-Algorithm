@@ -111,7 +111,9 @@ else:
 
 ```
 ## Sample Input and Output
-!(output)[
+!(output)[https://github.com/RanjithD18/Search-Algorithm/blob/main/Screenshot%20(52).png]
+!(output)[https://github.com/RanjithD18/Search-Algorithm/blob/main/Screenshot%20(53).png]
+!(output)[https://github.com/RanjithD18/Search-Algorithm/blob/main/Screenshot%20(54).png]
 
 
 
